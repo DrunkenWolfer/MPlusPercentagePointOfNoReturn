@@ -11,3 +11,9 @@ Changelog resumido:
 
 Nota de mantenimiento:
 - A partir de ahora, registrar aqui un resumen corto de cada cambio nuevo realizado en el addon.
+
+- 2026-05-04: Se inicializo repositorio Git en rama main y se publico en GitHub (DrunkenWolfer/MPlusPercentagePointOfNoReturn).
+- 2026-05-04: Se anadieron archivos de soporte de proyecto: .gitignore, README.md y CHANGELOG.md.
+- 2026-05-04: Se creo estructura de distribucion release/MPlusPercentagePointOfNoReturn con el .lua y .toc para instalacion final.
+- 2026-05-04: Se anadieron scripts .bat para flujo local (git_status.bat, git_commit_push.bat, build_release.bat).
+- 2026-05-04: Se elimino git_first_push_https.bat por no ser necesario tras completar el primer push.
