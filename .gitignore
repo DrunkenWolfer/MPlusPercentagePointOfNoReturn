@@ -1,0 +1,13 @@
+# WoW / Lua
+*.bak
+*.tmp
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional local notes
+notes.local.*

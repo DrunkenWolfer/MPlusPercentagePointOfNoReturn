@@ -1,0 +1,13 @@
+Esto es un Addon para World of Warcraft Midnight 12.0.5 (67314) (Comercial x64) o superior.
+
+No hay que ejecutar validaciónes Lua locales.
+
+Changelog resumido:
+- 2026-05-04: La deteccion de mazmorra ya no depende solo de C_ChallengeMode.GetActiveChallengeMapID(); si no hay piedra activa todavia, intenta resolver la mazmorra actual por el nombre localizado del cliente.
+- 2026-05-04: Se anadio soporte para "Fuerzas enemigas" al detector del porcentaje actual de trash.
+- 2026-05-04: Se limito el fallback por nombre para evitar mostrar listas fuera de instancias de grupo.
+- 2026-05-04: Se anadio la opcion persistente "Debug" en el menu del addon. Con Debug desactivado, las listas solo se muestran en Mitica con piedra; con Debug activado, pueden mostrarse en cualquier dificultad de mazmorra.
+- 2026-05-04: El desplegable de Instances selecciona automaticamente la instancia actual al abrir opciones si esa mazmorra existe en la lista M+, para editar notas mas rapido.
+
+Nota de mantenimiento:
+- A partir de ahora, registrar aqui un resumen corto de cada cambio nuevo realizado en el addon.
