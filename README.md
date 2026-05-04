@@ -1,6 +1,7 @@
 # MPlusPercentagePointOfNoReturn
 
-Addon para World of Warcraft que permite guardar y mostrar notas de porcentaje por mazmorra M+, con marco movible y selecci�n r�pida de instancia. Original author: IggyDarr Modified by Pacopao.
+Addon para World of Warcraft que permite guardar y mostrar notas de porcentaje por mazmorra M+, con marco movible y selecci�n r�pida de instancia. Original author: IggyDarr
+Modified by Pacopao.
 
 ## Compatibilidad
 
@@ -12,7 +13,7 @@ Addon para World of Warcraft que permite guardar y mostrar notas de porcentaje p
 - `MPlusPercentagePointOfNoReturn.toc`
 - `MPlusPercentagePointOfNoReturn.lua`
 
-## Instalaci�n local
+## Instalación local
 
 1. Copia esta carpeta a:
    `World of Warcraft/_retail_/Interface/AddOns/MPlusPercentagePointOfNoReturn`
@@ -20,10 +21,10 @@ Addon para World of Warcraft que permite guardar y mostrar notas de porcentaje p
 
 ## Desarrollo
 
-- No se requiere validaci�n Lua local para este proyecto.
-- Mant�n actualizado el resumen de cambios en `Contexto` y `CHANGELOG.md`.
+- No se requiere validación Lua local para este proyecto.
+- Mantén actualizado el resumen de cambios en `Contexto` y `CHANGELOG.md`.
 
-## Publicaci�n en GitHub
+## Publicación en GitHub
 
-Este repositorio est� preparado para usar rama `main`.
+Este repositorio está preparado para usar rama `main`.
 Pendiente de configurar remoto y hacer `push` inicial.
