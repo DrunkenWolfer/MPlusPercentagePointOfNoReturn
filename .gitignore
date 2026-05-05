@@ -11,3 +11,8 @@ Thumbs.db
 
 # Optional local notes
 notes.local.*
+
+#custom
+*.bat
+Contexto
+.gitignore
